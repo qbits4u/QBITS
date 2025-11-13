@@ -182,7 +182,7 @@ export default function ContactPage() {
                   >
                     <option value="">Select a package</option>
                     <option value="ai-chatbot">AI Chatbot Only - $199 </option>
-                    <option value="3-page">3-Page Website - $499/ <option>
+                    <option value="3-page">3-Page Website - $499/ </option>
                     <option value="4-7-page">4-7 Page Website - $799 </option>
                     <option value="7-12-page"> 7-12 Page Website - $1,499 </option>
                     <option value="custom">Custom Solution </option>
