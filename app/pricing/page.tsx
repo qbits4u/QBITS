@@ -50,7 +50,7 @@ export default function PricingPage() {
     {
       name: "7-12 Page Website",
       pages: "7-12",
-      price: "$1999 + Ai expenses",
+      price: "$1,499 + Ai expenses",
       description: "Enterprise solution for complex business needs",
       features: [
         "7-12 Custom Pages with Custom Design",
